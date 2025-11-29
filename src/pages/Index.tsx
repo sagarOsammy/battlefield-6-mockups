@@ -29,7 +29,7 @@ const Index = () => {
       {/* Main Content Area */}
       <div className="absolute inset-0 pt-24 pb-24 flex">
         {/* Left Side Game Mode Navigation */}
-        <div className="battlefield-glass">
+        <div className="">
           <GameModeNav activeMode={activeMode} onModeChange={setActiveMode} />
         </div>
         

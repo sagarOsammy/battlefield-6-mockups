@@ -7,7 +7,7 @@ const TopNavigation = ({ activeTab, onTabChange }: TopNavigationProps) => {
   const tabs = ['PARTY', 'PLAY', 'LOADOUTS', 'CHALLENGES', 'SETTINGS'];
 
   return (
-    <nav className="absolute top-0 left-0 right-0 z-30 p-6">
+    <nav className="absolute top-0 left-0 right-0 z-30 p-6 battlefield-glass">
       <div className="flex justify-center space-x-8">
         {tabs.map((tab) => (
           <button
