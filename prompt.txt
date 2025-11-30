@@ -1,0 +1,25 @@
+A high-fidelity cinematic game main menu UI displayed over a dramatic battlefield background for a video game called BATTLEFIELD 6.
+
+Background: ultra-detailed widescreen panorama of four suited modern soldiers standing on a ruined rooftop overlooking a burning city skyline with fighter jets in the sky, smoke, sparks and a large orange explosion near a bridge — cinematic depth of field, film grain, warm rim light on characters, cool desaturated city in distance.
+
+Top navigation bar: PARTY, PLAY, LOADOUTS, CHALLENGES, SETTINGS
+The default and currently active is the PLAY tab
+For active tabs: subtle orange bottom border is added and a black gradient is added to the tab.
+See attached image for reference.
+
+Foreground UI: semi-opaque dark panels with subtle glass/metal texture and soft inner shadow.
+A Left side vertical stacked navigation occupying 33% of the space.
+large condensed all-caps labels BREAKTHROUGH, CONQUEST, DOMINATION, ESCALATION, RUSH
+
+each item on a thick rectangle plate with beveled edge and subtle noise.
+The default and currently active is the CONQUEST option.
+For active options: highlighted with an orange underline progress bar.
+
+Center hero area fully visible behind UI with a faint vignette and radial glare behind the central soldier.
+
+Bottom center has the game logo: all caps, military styled alphabets.
+
+
+Color palette: charcoal (#1b1d20), gunmetal grey, smoky blue midtones, accent orange (#FF6A00) and soft warm highlights.
+Typography: militray styled fonts, bold condensed sans for headings, medium sans for body, high contrast white text with 1.6x line-height. Layout: 16:9 aspect ratio, ultra-high resolution, realistic lighting integration between background and UI, cinematic lens (35mm), slight filmic grain and subtle chromatic aberration, photoreal, high-detail, hyperreal textures, use a military video game aesthetic.
+Emphasize balance between readable UI elements and dramatic background artwork, crisp edges for UI, shallow depth on background but readable text.
